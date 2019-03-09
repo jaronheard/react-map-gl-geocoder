@@ -43,7 +43,7 @@
     "prop-types": "^15.6.2",
     "viewport-mercator-project": "6.1.1"
   },
-  "peerDependencies" {
+  "peerDependencies": {
     "react-map-gl": ">= 1.5.2"
   },
   "devDependencies": {
