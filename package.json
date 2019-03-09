@@ -45,7 +45,7 @@
   },
   "peerDependencies" {
     "react-map-gl": ">= 1.5.2"
-  }
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
